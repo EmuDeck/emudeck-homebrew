@@ -1,6 +1,26 @@
 # EmuDeck HomeBrew
 
-The following games come from webrcade selection, all the curation efforts and congrats goes to them!
+This is a collection of free non commercial games, if you are an author of any of this game and you don't want it here please reach to us on our [Discord](https://discord.gg/b9F7GpXtFP)
+
+EmuDeck Curated games:
+
+| Game                         | Author(s)            | System        | Links(s)                              |
+| ---------------------------- | -------------------- | ------------- | ------------------------------------- |
+| Alter Ego                    | Shiru, Denis Grachev | Nintendo NES  | -                                     |
+| Abbaye des Morts             | Parisoft             | Nintendo NES  | -                                     |
+| Altercation                  | Scottlowe            | Nintendo NES  | -                                     |
+| Atmo Sphere                  | FiskBit              | Nintendo NES  | -                                     |
+| Bare Metal                   | Wendel Scardua       | Nintendo NES  | -                                     |
+| Blob Quest                   | Tom Livak            | Nintendo NES  | -                                     |
+| Space Gulls                  | Morphcat Games       | Nintendo NES  | -                                     |
+| GraviBots                    | RetroSouls           | Sega Genesis  | -                                     |
+| Robert Cop 2 Vs Dragon Ninja | -                    | Sega Genesis  | -                                     |
+| Tourmaline                   | RetroSouls           | Sega Genesis  | -                                     |
+| Dottie Dreads Nought         | Goldlocke            | Nintendo SNES | -                                     |
+| Sure Instinct                | Bejamin Schulte      | Nintendo SNES | -                                     |
+| SuperCooked!                 | Goldlocke            | Nintendo SNES | https://goldlocke.itch.io/supercooked |
+
+The following games come from webrcade's selection, all the curation efforts and congrats goes to them. They are a great online emulator, you should try it!
 
 | Game                                     | Author(s)                                                     | System                  | Links(s)                                                                                                                |
 | ---------------------------------------- | ------------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------- |
