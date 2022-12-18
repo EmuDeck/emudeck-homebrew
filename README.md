@@ -2,6 +2,8 @@
 
 This is a collection of free non commercial games, if you are an author of any of this game and you don't want it here please reach to us on our [Discord](https://discord.gg/b9F7GpXtFP)
 
+And if want us to add your games contact us too!
+
 EmuDeck Curated games:
 
 | Game                         | Author(s)            | System        | Links(s)                              |
