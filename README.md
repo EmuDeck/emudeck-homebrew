@@ -2,6 +2,8 @@
 
 This is a collection of free non commercial games, if you are an author of any of this game and you don't want it here please reach to us on our [Discord](https://discord.gg/b9F7GpXtFP)
 
+And if want us to add your games contact us too!
+
 EmuDeck Curated games:
 
 | Game                         | Author(s)            | System        | Links(s)                              |
@@ -22,7 +24,7 @@ EmuDeck Curated games:
 The following games come from webrcade's selection, all the curation efforts and congrats goes to them. They are a great online emulator, you should try it!
 
 | Game                                     | Author(s)                                                     | System                  | Links(s)                                                                                                                |
-| ---------------------------------------- | ------------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------- | --- |
+| ---------------------------------------- | ------------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Alter Ego                                | Shiru, Denis Grachev                                          | Nintendo NES            | https://www.nesworld.com/cgi-bin/yabb/YaBB.pl?num=1311514833                                                            |
 | Battle Kid: Fortress of Peril (Demo)     | Sivak Games                                                   | Nintendo NES            | https://www.retrousb.com/product_info.php?products_id=86                                                                |
 | Battle Kid 2: Mountain of Torment (Demo) | Sivak Games                                                   | Nintendo NES            | https://www.retrousb.com/product_info.php?products_id=121                                                               |
@@ -34,8 +36,8 @@ The following games come from webrcade's selection, all the curation efforts and
 | Legends of Owlia, The                    | Gradual Games                                                 | Nintendo NES            | http://www.gradualgames.com/p/the-legends-of-owlia_1.html                                                               |
 | NES Virus Cleaner                        | Sly Dog Studios                                               | Nintendo NES            | https://unlicensednintendo.com/index.php/NES_Virus_Cleaner_(Sly_Dog_Studios)                                            |
 | Nomolos: Storming the CATsle             | Gradual Games                                                 | Nintendo NES            | http://www.gradualgames.com/                                                                                            |
-| PROTO DERE .NES                          | AppSir Games                                                  | Nintendo NES            | https://www.appsirgames.com/p/nes-game.html                                                                             |     |
-| Streemerz                                | Faux Game Company (Mr. Podunkian)                             | Nintendo NES            | https://www.fauxgame.com/                                                                                               |     |
+| PROTO DERE .NES                          | AppSir Games                                                  | Nintendo NES            | https://www.appsirgames.com/p/nes-game.html                                                                             |
+| Streemerz                                | Faux Game Company (Mr. Podunkian)                             | Nintendo NES            | https://www.fauxgame.com/                                                                                               |
 | Gunman Clive (Demo)                      | Bertil Hörberg                                                | Nintendo NES            | http://www.gunmanclive.com/snes/                                                                                        |
 | Jet Pilot Rising                         | Dieter Von Laser                                              | Nintendo NES            | https://snescentral.com/article.php?id=1091                                                                             |
 | MazezaM Challenge                        | Alekmaul                                                      | Nintendo NES            | https://www.portabledev.com/jeux/supernes/mazezam-snes/                                                                 |
