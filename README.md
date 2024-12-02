@@ -20,7 +20,7 @@ EmuDeck Curated games:
 | Dottie Dreads Nought         | Goldlocke            | Nintendo SNES | -                                     |
 | Sure Instinct                | Bejamin Schulte      | Nintendo SNES | -                                     |
 | SuperCooked!                 | Goldlocke            | Nintendo SNES | https://goldlocke.itch.io/supercooked |
-| Apotris                      | akouzoukos           | Nintendo GBA  | https://akouzoukos.itch.io/apotris    |
+| Apotris                      | akouzoukos           | Nintendo GBA  | https://akouzoukos.com/apotris        |
 
 The following games come from webrcade's selection, all the curation efforts and congrats goes to them. They are a great online emulator, you should try it!
 
