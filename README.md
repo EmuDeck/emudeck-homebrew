@@ -21,6 +21,7 @@ EmuDeck Curated games:
 | Sure Instinct                | Bejamin Schulte      | Nintendo SNES | -                                     |
 | SuperCooked!                 | Goldlocke            | Nintendo SNES | https://goldlocke.itch.io/supercooked |
 | Apotris                      | akouzoukos           | Nintendo GBA  | https://akouzoukos.com/apotris        |
+| Petrophobia                  | Orbis Tertius Games  | Nintendo GBC  | https://orbistertius.itch.io/petrophobia |
 
 The following games come from webrcade's selection, all the curation efforts and congrats goes to them. They are a great online emulator, you should try it!
 
